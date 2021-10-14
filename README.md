@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sm0keee
 - 👀 I’m interested in coding computer games  basketball 
-- 🌱 I’m currently learning python english 
+- 🌱 I’m currently learning python,english 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
